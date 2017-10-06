@@ -76,7 +76,7 @@ watchdog.slurm: line 61: 44646 Terminated              my_program
 21 [Main] End
 ```
 
-To modify the program for your job script,
+To modify the job script for your program,
 you probably want to:
 
 1. Replace the toy Python program in the `my_program()` function with your
